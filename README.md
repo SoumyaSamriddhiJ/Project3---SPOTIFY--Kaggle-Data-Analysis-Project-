@@ -49,3 +49,10 @@ Created calculated columns in Power Query, including:
 Release Year
 Release Month
 Modeled data and built interactive visuals in Power BI
+
+✅ Outcome
+This dashboard provides a high-level analytical view of Spotify’s music ecosystem and demonstrates:
+KPI identification
+Business-oriented analysis
+Clean data modeling
+Effective storytelling through visuals
