@@ -1,5 +1,6 @@
 # Project3---SPOTIFY--Kaggle-Data-Analysis-Project-
 🎧 Spotify Data Analysis Dashboard (Kaggle)
+
 📌 Project Overview
 
 This project analyzes Spotify music data sourced from Kaggle to uncover trends in music production, artist performance, and track characteristics.
